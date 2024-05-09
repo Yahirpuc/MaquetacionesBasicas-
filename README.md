@@ -3,6 +3,6 @@
 ## Aplicaciones Web
 **Mtro. Diego Iván May Tuz**  
 *Práctica 2: Maquetado*  
-Yahir Alberto Ordóñez Puc  
+## Yahir Alberto Ordoñez Puc  
 3er Cuatrimestre  
 Grupo F
