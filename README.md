@@ -5,4 +5,4 @@
 *Práctica 2: Maquetado*  
 ## *Alumno:* Yahir Alberto Ordoñez Puc  
 **3er Cuatrimestre **
-##*Grupo* f
+## *Grupo* f
