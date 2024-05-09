@@ -1,8 +1,8 @@
-<h1>Universidad Tecnologica Metropolitana</h1>
-<h1>Aplicaciones Web</h1>
+<h1>Universidad Tecnologica Metropolitana
+Aplicaciones Web
 Mtro. Diego Ivan May Tuz
-<h1>Practica 2: Maquetado</h1>
+Practica 2: Maquetado
 Yahir Alberto Ordoñez Puc
 3 Cuatrimestre
-Grupo F
+Grupo F</h1>
 
