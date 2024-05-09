@@ -5,6 +5,6 @@
 
  **Mtro. Diego Iván May Tuz**  
   
-* Alumno:Yahir Alberto Ordoñez Puc  
-* 3er Cuatrimestre **
-* Grupo: F
+* **Alumno:** Yahir Alberto Ordoñez Puc  
+* **3er Cuatrimestre**
+* **Grupo:** F
